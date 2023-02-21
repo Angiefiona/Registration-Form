@@ -1,0 +1,20 @@
+body{
+    background-image: url(lappy.jpg);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    
+
+}
+form{
+    text-align: center;
+    margin-left: 55%;
+}
+input{
+    padding: 0.5rem;
+    
+    
+}
+#button{
+    background-color: darkblue;
+    text-decoration: pink;
+}
